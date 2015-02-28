@@ -1,0 +1,569 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3065,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Lalit/Downloads/Shravan/site2/jquery.dropdown.css",
+				"/C/Users/Lalit/Desktop/work/Shravan/site2/index.html"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/Lalit/Downloads/Shravan/site2/index.html",
+					"settings":
+					{
+						"buffer_size": 12124,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Lalit/Downloads/Shravan/New folder/bootstrap-master/js/tests/vendor/jquery.min.js",
+					"settings":
+					{
+						"buffer_size": 95786,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Lalit/Downloads/Shravan/New folder/bootstrap-master/docs/_includes/components/dropdowns.html",
+					"settings":
+					{
+						"buffer_size": 6918,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Lalit/Downloads/Shravan/site2/js/dropdown.js",
+					"settings":
+					{
+						"buffer_size": 4696,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Lalit/Downloads/Shravan/site2/News.html",
+					"settings":
+					{
+						"buffer_size": 21628,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Lalit/Downloads/Shravan/site2/Mission.html",
+					"settings":
+					{
+						"buffer_size": 14678,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Lalit/Downloads/Shravan/site2/Contact.html",
+					"settings":
+					{
+						"buffer_size": 6542,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Lalit/Downloads/Shravan/site2/Help.html",
+				"/C/Users/Lalit/Downloads/Shravan/site2/js/backgroundPosition.js",
+				"/C/Users/Lalit/Downloads/Shravan/site2/css/style.css",
+				"/C/Users/Lalit/Downloads/Shravan/site2/js/script.js",
+				"/C/Users/Lalit/Downloads/Shravan/site2/js/dropdown.js.txt",
+				"/C/Users/Lalit/Downloads/sub/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Lalit/Downloads/Shravan/site2/jquery.dropdown.css",
+				"/C/Users/Lalit/Desktop/work/Shravan/site2/index.html"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Lalit/Downloads/Shravan/site2/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12124,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7204,
+										7204
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2295.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Lalit/Downloads/Shravan/New folder/bootstrap-master/js/tests/vendor/jquery.min.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 95786,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/Lalit/Downloads/Shravan/New folder/bootstrap-master/docs/_includes/components/dropdowns.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6918,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 810.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Users/Lalit/Downloads/Shravan/site2/js/dropdown.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4696,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": -0.0,
+								"translation.y": 1395.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Users/Lalit/Downloads/Shravan/site2/News.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 21628,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										963,
+										963
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/C/Users/Lalit/Downloads/Shravan/site2/Mission.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14678,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										897,
+										897
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 16.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/C/Users/Lalit/Downloads/Shravan/site2/Contact.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6542,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										896,
+										896
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,2,3,-32000,-32000,-1,-1,643,104,104,760",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
